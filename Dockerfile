@@ -1,1 +1,1 @@
-from k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.0
+from k8s.gcr.io/ingress-nginx/controller:v0.41.2
